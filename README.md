@@ -90,12 +90,9 @@ Kullanmak istemediğin eşiği `None` yap.
  
 ## Web Dashboard
  
-`index.html` dosyasını tarayıcıda aç ya da GitHub Pages üzerinden eriş:
- 
-- Anlık fiyat kartları (60 saniyede bir güncellenir)
-- BTC / ETH / SOL fiyat geçmişi grafiği
-- Alarm paneli — eşik gir, tetiklenince log'a düşer
-- Günlük özet raporu
+![Fiyat Kartları](images/anlık_fiyat.png)
+![Fiyat Geçmişi](images/fiyat_gecmisi.png)
+![Alarm Paneli](images/alarm_paneli.png)
  
 ---
  
