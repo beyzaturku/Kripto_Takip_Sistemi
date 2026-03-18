@@ -96,12 +96,3 @@ Kullanmak istemediğin eşiği `None` yap.
  
 ---
  
-## Günlük Rapor 
-![Günlük Rapor](rapor_2026-03-18.txt)
-
----
-
-## Kripto Fiyatları 
-![Kripto Fiyatları](kripto_fiyatlari.csv)
-
---- 
