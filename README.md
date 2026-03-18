@@ -2,7 +2,7 @@
  
 Anlık kripto para fiyatlarını takip eden, alarm kurabilen ve günlük rapor oluşturan Python + HTML projesi.
 
-**Canlı Demo → [beyzaturku.github.io/Kripto_Takip_Sistemi](https://beyzaturku.github.io/API_Projects/app/dashboard.html)**
+**Canlı Demo → [beyzaturku.github.io/Kripto_Takip_Sistemi](https://beyzaturku.github.io/API_Projects/app/index.html)**
 
 ## Özellikler 
 - **Anlık fiyat takibi** — BTC, ETH, SOL için canlı TRY fiyatları
